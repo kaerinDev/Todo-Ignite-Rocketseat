@@ -4,6 +4,7 @@
 <p align="center">
     <strong>Aplicativo Web de Todo List.</strong>
 </p>
+
 ## 💻 Sobre o projeto
 
 Este projeto foi criado para o desafio da trilha atualizada do curso Ignite da Rocketseat.
