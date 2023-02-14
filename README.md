@@ -12,14 +12,14 @@ Este projeto foi criado para o desafio da trilha atualizada do curso Ignite da R
 ### Desktop
 
 <p align="left"> 
-  <img src="./public/screenshot1.png" width="70%"">
-  <img src="./public/screenshot2.png" width="70%"">
+  <img src="./public/Screenshot1.png" width="70%"">
+  <img src="./public/Screenshot2.png" width="70%"">
 </p>
 
 ### Mobile
 
 <p align="left">       
-  <img src="./public/screenshot3.png" width="35%"">
+  <img src="./public/Screenshot3.png" width="35%"">
 </p>
                                                   
 ## 🚀 Instalação e uso
